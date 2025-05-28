@@ -32,7 +32,7 @@ moonshot-sw-engineer-assignment/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-name/moonshot-app.git
+git clone https://github.com/orcohenadiv/moonshot-app.git
 cd moonshot-app
 ```
 
